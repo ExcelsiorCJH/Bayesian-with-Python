@@ -25,6 +25,7 @@
 
 ## 4. 참고 자료
 
-- GitHub : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+- GitHub(ENG) : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+- GitHub(KOR) : https://github.com/DoosanJung/Bayesian-for-Hackers-Korean
 - 길벗-GitHub : https://github.com/gilbutITbook/006775
 
