@@ -19,7 +19,9 @@
 
 ## 3. 목차 
 
-- [1장 - 베이지안 추론의 철학]()
+- [1장 - 베이지안 추론의 철학](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap01-Introduction/Chap01-Introduction.ipynb)
+
+
 
 
 
