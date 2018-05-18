@@ -22,7 +22,9 @@
 - [1장 - 베이지안 추론의 철학](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap01-Introduction/Chap01-Introduction.ipynb)
 - [2장 - PyMC 더 알아보기](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap02-MorePyMC/Chap02-MorePyMC.ipynb)
 - [3장 - MCMC 블랙박스 열기](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap03-MCMC/Chap03-Intro_MCMC.ipynb)
-
+- [4장 - 아무도 알려주지 않는 위대한 이론](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap04-TheGreatestTheoremNeverTold/Chap04-TheGreatestTheoremNeverTold.ipynb)
+- [5장 - 오히려 큰 손해를 보시겠습니까?](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap05-LossFunctions/Chap05-LossFunctions.ipynb)
+- [6장 - 우선순위 바로잡기](https://github.com/ExcelsiorCJH/Bayesian-with-Python/blob/master/Chap06-Priorities/Chap06-Priors.ipynb)
 
 
 
